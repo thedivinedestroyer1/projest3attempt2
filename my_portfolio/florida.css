@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+	header{
+    background-color: #FFFFFF;
+    background-image: url(images/FLORIDA.png);
+    width: 597px;
+    height: 309px;
+    margin: auto;
+    background-repeat: no-repeat;
+    float: none;
+}body {
+    background-image: url(images/grass.jpg);
+    background-repeat: no-repeat;
+    width: 597px;
+    background-size: cover;
+}
